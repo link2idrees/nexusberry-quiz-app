@@ -1,4 +1,4 @@
-import pakImg from './logo.svg';
+// import pakImg from './logo.svg';
 import './App.css';
 import './Custom.css';
 
