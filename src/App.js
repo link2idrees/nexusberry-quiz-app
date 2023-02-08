@@ -12,7 +12,7 @@ function App() {
 
           </div>
           <div className='col-md-6'>
-            <h1 className='text-center mt-3 text-white'>Quizz Ap</h1>
+            <h1 className='text-center mt-3 text-white'>Quizz App</h1>
             <div className='card bg-secondary'>
               <div className='card-header text-white'>
                 <div>
