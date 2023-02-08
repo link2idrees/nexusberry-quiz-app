@@ -1,0 +1,8 @@
+#body{
+    /* style={{backgroundImage:`URL(${process.env.PUBLIC_URL+ "/bg-image.jpg"})`,backgroundSize: 'cover',backgroundRepeat: 'no-repeat',backgroundPosition:'center center'}} */
+    background-image: url(/public/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
